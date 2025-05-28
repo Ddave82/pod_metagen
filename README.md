@@ -104,9 +104,16 @@ pod_metagen/
 | Spreadshirt    | German   | Title (max 50 chars), Description (max 200 chars), up to 25 Tags              |
 | Amazon Merch   | German   | Title (max 60 chars), Brand (max 50 chars), 2 Bullet Points, Product Text     |
 
+
+
 ## License
 
-[GPL-3.0 License](LICENSE)
+This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license.
+
+You are free to use, adapt, and share this software **for non-commercial purposes**, as long as you give proper credit.  
+Commercial use is **not permitted** without explicit permission.
+
+[View full license details](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ---
 
